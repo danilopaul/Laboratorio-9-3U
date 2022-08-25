@@ -24,7 +24,7 @@ Señora Vásquez
 
 3.Materiales Requeridos:
 
-![image](https://user-images.githubusercontent.com/105687375/186784273-da0f5418-5ae2-4e3f-8b79-07f1d9cca720.png)
+![image](https://user-images.githubusercontent.com/105687375/186785920-71336484-7c0f-4d4d-bd04-03fa11386345.png)
 
 4.Procedimiento:
 
