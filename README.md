@@ -41,6 +41,12 @@ Señora Vásquez
 
 4.3.  Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/105687375/186788380-92530ade-739d-4796-b411-fdfd0de1573d.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186788540-0b966b24-3fc8-4eda-9ee2-719a912269fa.png)
+
+![image](https://user-images.githubusercontent.com/105687375/186788623-078da6a1-6859-4c61-916e-d83e47548a5b.png)
+
 ![image](https://user-images.githubusercontent.com/105687213/186786693-4167fa55-e054-4847-a9d9-607635fe5ac6.png)
 
 4.4.  Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
