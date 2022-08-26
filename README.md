@@ -22,6 +22,9 @@ Señora Vásquez
 
 2.Marco Teorico:
 
+![image](https://user-images.githubusercontent.com/105684550/186789753-6f31997c-a7c0-40ca-aa3e-5dbc188e7fc1.png)
+Link del mapa mental: https://www.canva.com/design/DAFKXEyupgE/nYAPi_EKvQGOn-Bbm_qdzg/view?utm_content=DAFKXEyupgE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 3.Materiales Requeridos:
 
 ![image](https://user-images.githubusercontent.com/105687375/186785920-71336484-7c0f-4d4d-bd04-03fa11386345.png)
