@@ -3,22 +3,25 @@
                                       Universidad de las Fuerzas Armadas - ESPE
                                        Fundamentos de Circuitos Electróinicos
                                        
-integrantes:
+Integrantes:
 
-cholca pablo
+- Cholca Paul
+- Sandal Andres
+- Lady Vásquez
 
-Sandalia Andres
-
-Señora Vásquez
-
-                                                   L ABORATORIO N° 9
+                                                   LABORATORIO N° 9
                                                 
 1.Objetivos:
 
 1.1. Objetivo General:
 
+Determinar el concepto de los fasores, para reconocer sus características y funcionamiento con el fin de poder realizar correctamente los ejercicios planteados junto con la ayuda de una calculadora.
 
 1.2. Objetivos Especificos:
+
+- Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
+- Manejar y usar adecuadamente la calculadora cientifica para poder completar las operaciones con números complejos.
+- Aplicar los conceptos y fórmulas aprendidas para poder realizar las operaciones propuestas.
 
 2.Marco Teorico:
 
@@ -94,6 +97,12 @@ Link del mapa mental: https://www.canva.com/design/DAFKXEyupgE/nYAPi_EKvQGOn-Bbm
 5. Video
 
 6. Conclusiones
+
+- La utilización de los fasores es un instrumento matemática de enorme ayuda, puesto que simplifica la exploración de los circuitos, facilitando los cálculos, debido a que si se toma la señal en el dominio del tiempo se tendría que laborar con ecuaciones diferenciales, lo que realizaría más extenso el método.
+
+- Al descubrir la utilización que tienen los fasores se conclluye que se puede simplificar expresiones complicadas, como tienen la posibilidad de ser ecuaciones diferenciales, en básicas cálculos. Como se ve en la situación de la ecuación diferencial del oscilador armónico y el cálculo de la impedancia de circuito RLC. 
+
+- En esta nota de aplicación de variable compleja, se aspira habituar al lector en la utilización de fasores para la resolución de fenómenos físicos y eléctricos. Observamos la versatilidad de modificar funcionalidades trigonométricas por complicados, para solucionar circuitos RLC y desplazamiento armónico fácil. 
 
 7. Bibliografia
 
